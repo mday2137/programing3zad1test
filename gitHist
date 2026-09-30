@@ -1,0 +1,17 @@
+commit b7fda16b3a8d253641db86e27087649ec9b372fd
+Author: Michał Dienisiewicz <michal.dzienisiewicz@gmail.com>
+Date:   Wed Sep 30 17:48:04 2026 +0200
+
+    Dodano pytanie o wiek
+
+commit 290480747a3d923c654ed3a9d71ff4c84c4be4c4
+Author: Michał Dienisiewicz <michal.dzienisiewicz@gmail.com>
+Date:   Wed Sep 30 17:21:19 2026 +0200
+
+    Lepsze przywitanie
+
+commit 8c20588189b39837aec621637d726fe46f2718a3
+Author: Michał Dienisiewicz <michal.dzienisiewicz@gmail.com>
+Date:   Wed Sep 30 16:56:11 2026 +0200
+
+    Zmiana wiadomości powitalnej
